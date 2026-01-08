@@ -12,15 +12,6 @@ Informatics student at UPN “Veteran” Yogyakarta with a strong interest in Ma
 ![](https://nirzak-streak-stats.vercel.app/?user=AndhikaKusumaW&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndhikaKusumaW&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AndhikaKusumaW&theme=merko&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AndhikaKusumaW&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AndhikaKusumaW&icon=0&color=0)](https://visitcount.itsvg.in)
 
